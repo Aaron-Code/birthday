@@ -38,5 +38,5 @@ var config = {
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
         story: "17 birthday FOR YOU",
-    }
+    }       
 };
